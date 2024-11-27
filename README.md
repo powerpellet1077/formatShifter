@@ -6,5 +6,5 @@ Open source, not the best, but it works!
 
 For compilers:
 ```
-nuitka formatshifter.py --onefile --follow-imports --enable-plugin=tk-inter --disable-console
+nuitka formatshifter.py --onefile --follow-imports --enable-plugin=tk-inter --disable-console --windows-icon-from-ico=icon.ico
 ```
